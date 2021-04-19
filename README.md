@@ -4,16 +4,17 @@
 
 Pewlett Hackard, a very large organization has noticed a potential trend of a large chunk of employees retiring recently.  I have been tasked with analyzing a set of 6 csv files pertaining to employee background information in order to find out how many current employees will be retiring and which departments these retiring employees work in so the organization can plan accordingly. In addition, I have qualified employees who may be retiring soon for the organizations new mentorship program.
 
-### Pewlett Hackard Database Diagram
-![QDB](https://github.com/agregorash/Pewlett-Hackard-Analysis/blob/main/Queries/EmployeeDB.png)
 
 ## Resources
 - Data Sources: 
 [titles.csv](https://github.com/agregorash/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv), [salaries.csv](https://github.com/agregorash/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv), [employees.csv](https://github.com/agregorash/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv), [dept_manager.csv](https://github.com/agregorash/Pewlett-Hackard-Analysis/blob/main/Data/dept_manager.csv), [dept_emp.csv](https://github.com/agregorash/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv), [departments.csv](https://github.com/agregorash/Pewlett-Hackard-Analysis/blob/main/Data/departments.csv)
                
- - Software: PostgreSQL 12.5, quickdatabasediagrams.com
+ - PostgreSQL 12.5, quickdatabasediagrams.com, PgAdmin 4.20
 
 ## Results
+
+### Relational Database Diagram
+![QDB](https://github.com/agregorash/Pewlett-Hackard-Analysis/blob/main/Queries/EmployeeDB.png)
 
 ### Number of Retiring Employees by Title
 - A total of 90,398 will be retiring in the near future
