@@ -28,6 +28,7 @@ Pewlett Hackard, a very large organization has noticed a potential trend of a la
 ## Summary
 
 1. As the "silver tsunami" begins to make an impact, there are 90,398 roles that will need to be filled across 7 different categories in the organization.  Most of these are senior positions, and lukcily only 2 manager positions will be left to fill.
+
 ![challenge_count](https://github.com/agregorash/Pewlett-Hackard-Analysis/blob/main/Queries/challenge_count.PNG)
 
 2. With 1,549 employees available for the mentorship program, it seems that there are not enough qualified employees ready for retirement in the departments to mentor the next generation of employees.  Each mentor would have to have about 58 mentees, which is much too large of a workload for any employee, especially part-time retiring employees.  By breaking down the mentorship eligible employees by department in the query below, we can see that the employees are proportionally spread to the employees that are retiring but there is still too few employees to mentor the retiring employees.  
